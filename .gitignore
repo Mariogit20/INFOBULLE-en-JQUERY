@@ -1,0 +1,8 @@
+*.pdf
+*.exe
+*.mp4
+
+/fontawesome
+/bootstrap
+/venv
+
