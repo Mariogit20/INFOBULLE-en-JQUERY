@@ -1,0 +1,2 @@
+# INFOBULLE-en-JQUERY
+Plaçez le CURSEUR DE VOTRE SOURIS au-dessus du BOUTON LIEN afin de FAIRE APPARAITRE l'INFOBULLE qui a été créée avec JQUERY EasyUI et HTML
