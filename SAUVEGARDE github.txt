@@ -1,0 +1,2509 @@
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7
+$ git init
+Initialized empty Git repository in D:/PYTHON DJANGO HOPES/github7/.git/
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7 (master)
+$ git clone https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+Cloning into 'INFOBULLE-en-JQUERY'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7 (master)
+$ cd INFOBULLE-en-JQUERY
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (main)
+$ git branch Test
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (main)
+$ git checkout Test
+Switched to branch 'Test'
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$ git push --set-upstream origin Test
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote:
+remote: Create a pull request for 'Test' on GitHub by visiting:
+remote:      https://github.com/Mariogit20/INFOBULLE-en-JQUERY/pull/new/Test
+remote:
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+ * [new branch]      Test -> Test
+branch 'Test' set up to track 'origin/Test'.
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$ git branch Dev
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$ git checkout Dev
+Switched to branch 'Dev'
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git push --set-upstream origin Dev
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote:
+remote: Create a pull request for 'Dev' on GitHub by visiting:
+remote:      https://github.com/Mariogit20/INFOBULLE-en-JQUERY/pull/new/Dev
+remote:
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+ * [new branch]      Dev -> Dev
+branch 'Dev' set up to track 'origin/Dev'.
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .gitignore
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git commit -m "Ajout gitignore"
+[Dev 66f7e53] Ajout gitignore
+ 1 file changed, 8 insertions(+)
+ create mode 100644 .gitignore
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git config --global http.postBuffer 2048576000
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 334 bytes | 334.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+   7a838a7..66f7e53  Dev -> Dev
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .gitignore
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git commit -m "Modification gitignore"
+[Dev 17aa55e] Modification gitignore
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git config --global http.postBuffer 2048576000
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 347 bytes | 347.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+   66f7e53..17aa55e  Dev -> Dev
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .
+warning: in the working copy of 'JQUERY_2024/jquery-3.7.1.js', LF will be replac
+ed by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-3.7.1.min.js', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-3.7.1.slim.js', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-3.7.1.slim.min.js', LF will
+be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-migrate-1.4.1.js', LF will b
+e replaced by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-migrate-1.4.1.min.js', LF wi
+ll be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-migrate-3.5.0.js', LF will b
+e replaced by CRLF the next time Git touches it
+warning: in the working copy of 'JQUERY_2024/jquery-migrate-3.5.0.min.js', LF wi
+ll be replaced by CRLF the next time Git touches it
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git add .
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git commit -m "first commit"
+[Dev 84aa8f5] first commit
+ 651 files changed, 163146 insertions(+)
+ create mode 100644 INFOBULLE en JQUERY.mkv
+ create mode 100644 JQUERY_2024/jquery-3.7.1.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.min.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.min.map
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.min.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.min.map
+ create mode 100644 JQUERY_2024/jquery-migrate-1.4.1.js
+ create mode 100644 JQUERY_2024/jquery-migrate-1.4.1.min.js
+ create mode 100644 JQUERY_2024/jquery-migrate-3.5.0.js
+ create mode 100644 JQUERY_2024/jquery-migrate-3.5.0.min.js
+ create mode 100644 bootstrap-5.0.2/.babelrc.js
+ create mode 100644 bootstrap-5.0.2/.browserslistrc
+ create mode 100644 bootstrap-5.0.2/.bundlewatch.config.json
+ create mode 100644 bootstrap-5.0.2/.editorconfig
+ create mode 100644 bootstrap-5.0.2/.eslintignore
+ create mode 100644 bootstrap-5.0.2/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/.gitattributes
+ create mode 100644 bootstrap-5.0.2/.github/CODEOWNERS
+ create mode 100644 bootstrap-5.0.2/.github/CONTRIBUTING.md
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/bug_report.md
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/config.yml
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/feature_request.md
+ create mode 100644 bootstrap-5.0.2/.github/SUPPORT.md
+ create mode 100644 bootstrap-5.0.2/.github/dependabot.yml
+ create mode 100644 bootstrap-5.0.2/.github/release-drafter.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/browserstack.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/bundlewatch.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/codeql.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/css.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/docs.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/js.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/lint.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/node-sass.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/release-notes.yml
+ create mode 100644 bootstrap-5.0.2/.gitignore
+ create mode 100644 bootstrap-5.0.2/.stylelintignore
+ create mode 100644 bootstrap-5.0.2/.stylelintrc
+ create mode 100644 bootstrap-5.0.2/CODE_OF_CONDUCT.md
+ create mode 100644 bootstrap-5.0.2/LICENSE
+ create mode 100644 bootstrap-5.0.2/README.md
+ create mode 100644 bootstrap-5.0.2/SECURITY.md
+ create mode 100644 bootstrap-5.0.2/build/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/build/banner.js
+ create mode 100644 bootstrap-5.0.2/build/build-plugins.js
+ create mode 100644 bootstrap-5.0.2/build/change-version.js
+ create mode 100644 bootstrap-5.0.2/build/generate-sri.js
+ create mode 100644 bootstrap-5.0.2/build/postcss.config.js
+ create mode 100644 bootstrap-5.0.2/build/rollup.config.js
+ create mode 100644 bootstrap-5.0.2/build/svgo.yml
+ create mode 100644 bootstrap-5.0.2/build/vnu-jar.js
+ create mode 100644 bootstrap-5.0.2/build/zip-examples.js
+ create mode 100644 bootstrap-5.0.2/composer.json
+ create mode 100644 bootstrap-5.0.2/config.yml
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.min.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.min.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/alert.js
+ create mode 100644 bootstrap-5.0.2/js/dist/alert.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/base-component.js
+ create mode 100644 bootstrap-5.0.2/js/dist/base-component.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/button.js
+ create mode 100644 bootstrap-5.0.2/js/dist/button.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/carousel.js
+ create mode 100644 bootstrap-5.0.2/js/dist/carousel.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/collapse.js
+ create mode 100644 bootstrap-5.0.2/js/dist/collapse.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/data.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/data.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/event-handler.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/event-handler.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/manipulator.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/manipulator.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/selector-engine.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/selector-engine.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dropdown.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dropdown.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/modal.js
+ create mode 100644 bootstrap-5.0.2/js/dist/modal.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/js/dist/offcanvas.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/popover.js
+ create mode 100644 bootstrap-5.0.2/js/dist/popover.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/scrollspy.js
+ create mode 100644 bootstrap-5.0.2/js/dist/scrollspy.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/tab.js
+ create mode 100644 bootstrap-5.0.2/js/dist/tab.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/toast.js
+ create mode 100644 bootstrap-5.0.2/js/dist/toast.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/tooltip.js
+ create mode 100644 bootstrap-5.0.2/js/dist/tooltip.js.map
+ create mode 100644 bootstrap-5.0.2/js/index.esm.js
+ create mode 100644 bootstrap-5.0.2/js/index.umd.js
+ create mode 100644 bootstrap-5.0.2/js/src/alert.js
+ create mode 100644 bootstrap-5.0.2/js/src/base-component.js
+ create mode 100644 bootstrap-5.0.2/js/src/button.js
+ create mode 100644 bootstrap-5.0.2/js/src/carousel.js
+ create mode 100644 bootstrap-5.0.2/js/src/collapse.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/data.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/event-handler.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/manipulator.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/selector-engine.js
+ create mode 100644 bootstrap-5.0.2/js/src/dropdown.js
+ create mode 100644 bootstrap-5.0.2/js/src/modal.js
+ create mode 100644 bootstrap-5.0.2/js/src/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/js/src/popover.js
+ create mode 100644 bootstrap-5.0.2/js/src/scrollspy.js
+ create mode 100644 bootstrap-5.0.2/js/src/tab.js
+ create mode 100644 bootstrap-5.0.2/js/src/toast.js
+ create mode 100644 bootstrap-5.0.2/js/src/tooltip.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/backdrop.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/index.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/sanitizer.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/scrollbar.js
+ create mode 100644 bootstrap-5.0.2/js/tests/README.md
+ create mode 100644 bootstrap-5.0.2/js/tests/browsers.js
+ create mode 100644 bootstrap-5.0.2/js/tests/helpers/fixture.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/bundle-modularity.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/bundle.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/index.html
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/rollup.bundle-modularit
+y.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/rollup.bundle.js
+ create mode 100644 bootstrap-5.0.2/js/tests/karma.conf.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/alert.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/base-component.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/button.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/carousel.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/collapse.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/data.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/event-handler.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/manipulator.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/selector-engine.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dropdown.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/jquery.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/modal.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/offcanvas.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/popover.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/scrollspy.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/tab.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/toast.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/tooltip.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/backdrop.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/index.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/sanitizer.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/scrollbar.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/alert.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/button.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/carousel.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/collapse.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/dropdown.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/modal.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/popover.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/scrollspy.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/tab.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/toast.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/tooltip.html
+ create mode 100644 bootstrap-5.0.2/nuget/MyGet.ps1
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.nuspec
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.png
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.sass.nuspec
+ create mode 100644 bootstrap-5.0.2/package-lock.json
+ create mode 100644 bootstrap-5.0.2/package.js
+ create mode 100644 bootstrap-5.0.2/package.json
+ create mode 100644 bootstrap-5.0.2/scss/_accordion.scss
+ create mode 100644 bootstrap-5.0.2/scss/_alert.scss
+ create mode 100644 bootstrap-5.0.2/scss/_badge.scss
+ create mode 100644 bootstrap-5.0.2/scss/_breadcrumb.scss
+ create mode 100644 bootstrap-5.0.2/scss/_button-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/scss/_card.scss
+ create mode 100644 bootstrap-5.0.2/scss/_carousel.scss
+ create mode 100644 bootstrap-5.0.2/scss/_close.scss
+ create mode 100644 bootstrap-5.0.2/scss/_containers.scss
+ create mode 100644 bootstrap-5.0.2/scss/_dropdown.scss
+ create mode 100644 bootstrap-5.0.2/scss/_forms.scss
+ create mode 100644 bootstrap-5.0.2/scss/_functions.scss
+ create mode 100644 bootstrap-5.0.2/scss/_grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/_helpers.scss
+ create mode 100644 bootstrap-5.0.2/scss/_images.scss
+ create mode 100644 bootstrap-5.0.2/scss/_list-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/_mixins.scss
+ create mode 100644 bootstrap-5.0.2/scss/_modal.scss
+ create mode 100644 bootstrap-5.0.2/scss/_nav.scss
+ create mode 100644 bootstrap-5.0.2/scss/_navbar.scss
+ create mode 100644 bootstrap-5.0.2/scss/_offcanvas.scss
+ create mode 100644 bootstrap-5.0.2/scss/_pagination.scss
+ create mode 100644 bootstrap-5.0.2/scss/_popover.scss
+ create mode 100644 bootstrap-5.0.2/scss/_progress.scss
+ create mode 100644 bootstrap-5.0.2/scss/_reboot.scss
+ create mode 100644 bootstrap-5.0.2/scss/_root.scss
+ create mode 100644 bootstrap-5.0.2/scss/_spinners.scss
+ create mode 100644 bootstrap-5.0.2/scss/_tables.scss
+ create mode 100644 bootstrap-5.0.2/scss/_toasts.scss
+ create mode 100644 bootstrap-5.0.2/scss/_tooltip.scss
+ create mode 100644 bootstrap-5.0.2/scss/_transitions.scss
+ create mode 100644 bootstrap-5.0.2/scss/_type.scss
+ create mode 100644 bootstrap-5.0.2/scss/_utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/_variables.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-reboot.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_floating-labels.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-check.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-control.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-range.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-select.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-text.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_input-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_labels.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_validation.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_clearfix.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_colored-links.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_position.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_ratio.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_stretched-link.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_text-truncation.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_visually-hidden.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_alert.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_border-radius.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_box-shadow.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_breakpoints.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_caret.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_clearfix.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_color-scheme.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_container.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_deprecate.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_forms.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_gradients.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_image.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_list-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_lists.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_pagination.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_reset-text.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_resize.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_table-variants.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_text-truncate.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_transition.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_visually-hidden.scss
+ create mode 100644 bootstrap-5.0.2/scss/utilities/_api.scss
+ create mode 100644 bootstrap-5.0.2/scss/vendor/_rfs.scss
+ create mode 100644 bootstrap-5.0.2/site/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/site/assets/js/application.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/search.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/vendor/anchor.min.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/vendor/clipboard.min.js
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_ads.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_algolia.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_anchor.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_brand.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_callouts.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_clipboard-js.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_colors.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_component-examples.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_content.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_footer.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_layout.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_masthead.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_navbar.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_placeholder-img.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_sidebar.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_skippy.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_subnav.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_syntax.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_toc.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_variables.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/docs.scss
+ create mode 100644 bootstrap-5.0.2/site/content/404.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/_index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/brand.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/license.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/team.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/translations.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/accordion.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/alerts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/badge.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/breadcrumb.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/button-grou
+p.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/buttons.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/card.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/carousel.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/close-butto
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/collapse.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/dropdowns.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/list-group.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/modal.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/navbar.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/navs-tabs.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/offcanvas.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/pagination.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/popovers.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/progress.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/scrollspy.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/spinners.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/toasts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/tooltips.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/figures.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/images.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/reboot.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/tables.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/typography.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/color.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/components.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/css-variable
+s.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/optimize.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/options.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/sass.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/.stylelintrc
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/_index.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/album-rtl/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/album/index.h
+tml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog-rtl/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.rtl
+.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/index.ht
+ml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel-rtl/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/caro
+usel.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/caro
+usel.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet-rt
+l/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/in
+dex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout-rtl/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form
+-validation.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form
+-validation.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cover/cover.c
+ss
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cover/index.h
+tml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl
+/dashboard.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/feat
+ures.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-1.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-2.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-3.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/grid/grid.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/grid/index.ht
+ml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/headers/heade
+rs.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/headers/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootst
+rap-docs.png
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootst
+rap-themes.png
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/heroes
+.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/index.
+html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/jumbotron/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/masonry/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-bottom
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/
+navbar-top-fixed.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static
+/navbar-top.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/navba
+r.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/offcanvas.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/prici
+ng.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/product/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/product/produ
+ct.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/side
+bars.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/side
+bars.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/signi
+n.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/starter-templ
+ate/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/starter-templ
+ate/starter-template.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+-navbar/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+-navbar/sticky-footer-navbar.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+/sticky-footer.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/extend/approach.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/extend/icons.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/checks-radios.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/floating-labels.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/form-control.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/input-group.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/layout.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/range.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/select.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/validation.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/access
+ibility.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/best-p
+ractices.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/browse
+rs-devices.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/build-
+tools.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/conten
+ts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/downlo
+ad.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/introd
+uction.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/javasc
+ript.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/parcel
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/rfs.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/rtl.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/webpac
+k.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/clearfix.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/colored-links.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/position.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/ratio.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/stretched-link
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/text-truncatio
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/visually-hidde
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/breakpoints.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/columns.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/containers.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/grid.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/gutters.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/utilities.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/z-index.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/migration.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/api.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/background.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/borders.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/colors.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/display.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/flex.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/float.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/interactions
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/overflow.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/position.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/shadows.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/sizing.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/spacing.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/text.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/vertical-ali
+gn.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/visibility.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/_index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/versions.md
+ create mode 100644 bootstrap-5.0.2/site/data/breakpoints.yml
+ create mode 100644 bootstrap-5.0.2/site/data/colors.yml
+ create mode 100644 bootstrap-5.0.2/site/data/core-team.yml
+ create mode 100644 bootstrap-5.0.2/site/data/docs-versions.yml
+ create mode 100644 bootstrap-5.0.2/site/data/examples.yml
+ create mode 100644 bootstrap-5.0.2/site/data/grays.yml
+ create mode 100644 bootstrap-5.0.2/site/data/icons.yml
+ create mode 100644 bootstrap-5.0.2/site/data/sidebar.yml
+ create mode 100644 bootstrap-5.0.2/site/data/theme-colors.yml
+ create mode 100644 bootstrap-5.0.2/site/data/translations.yml
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/404.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/baseof.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/docs.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/examples.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/home.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/redirect.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/single.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/alias.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/ads.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/analytics.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-danger-async-m
+ethods.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-mediaquer
+ies-breakpoints.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-npm-start
+er.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-prefersre
+ducedmotion.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-sanitizer
+.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-warning-color-
+assistive-technologies.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-warning-input-
+support.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-navbar.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-sidebar.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-subnav.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-versions.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/favicons.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/footer.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/header.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/home/masthead-followup
+.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/home/masthead.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-logo-s
+olid.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-white-
+fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/circle-square.sv
+g
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/cloud-fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/code.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/collapse.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/droplet-fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/expand.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/github.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/hamburger.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/homepage-hero.sv
+g
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/list.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/menu.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/opencollective.s
+vg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/slack.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/twitter.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/redirect.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/scripts.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/skippy.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/social.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/stylesheet.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/table-content.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/robots.txt
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/bs-table.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/callout.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/docsref.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/example.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/markdown.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/param.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/partial.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/placeholder.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/scss-docs.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/table.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/year.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/sitemap.xml
+ create mode 100644 bootstrap-5.0.2/site/static/CNAME
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-black.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-shadow.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-white.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+social-logo.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+social.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-ic
+ons.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-ic
+ons@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes-collage.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes-collage@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cov
+er.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cov
+er@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/fea
+tures.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/fea
+tures@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/gri
+d.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/gri
+d@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/hea
+ders.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/hea
+ders@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/her
+oes.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/her
+oes@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jum
+botron.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jum
+botron@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/mas
+onry.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/mas
+onry@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-bottom.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-bottom@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-fixed.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-fixed@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-static.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-static@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bars.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bars@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/off
+canvas-navbar.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/off
+canvas-navbar@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pri
+cing.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pri
+cing@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pro
+duct.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pro
+duct@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sid
+ebars.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sid
+ebars@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sig
+n-in.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sig
+n-in@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sta
+rter-template.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sta
+rter-template@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer-navbar.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer-navbar@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/and
+roid-chrome-192x192.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/and
+roid-chrome-512x512.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/app
+le-touch-icon.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon-16x16.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon-32x32.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon.ico
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/man
+ifest.json
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/saf
+ari-pinned-tab.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/js/validate-form
+s.js
+ create mode 100644 bootstrap-5.0.2/site/static/sw.js
+ create mode 100644 image/camion-benne.JPG
+ create mode 100644 image/camion-citerne.JPG
+ create mode 100644 image/camion-routier.JPG
+ create mode 100644 image/camion_fourgon.JPG
+ create mode 100644 image/camion_frigorifique.JPG
+ create mode 100644 image/camion_plateau.JPG
+ create mode 100644 image/camion_porte-char.JPG
+ create mode 100644 image/camion_semi-remorque.JPG
+ create mode 100644 image/camion_tautliner.JPG
+ create mode 100644 image/image_Terre.jpg
+ create mode 100644 image/img_lights_wide.jpg
+ create mode 100644 image/img_mountains_wide.jpg
+ create mode 100644 image/img_snow_wide.jpg
+ create mode 100644 index.html
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git config --global http.postBuffer 2048576000
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git push
+Enumerating objects: 747, done.
+Counting objects: 100% (747/747), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (725/725), done.
+Writing objects: 100% (746/746), 24.48 MiB | 14.59 MiB/s, done.
+Total 746 (delta 89), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (89/89), done.
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+   17aa55e..84aa8f5  Dev -> Dev
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Dev)
+$ git checkout Test
+Switched to branch 'Test'
+Your branch is up to date with 'origin/Test'.
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$ git merge Dev
+Updating 7a838a7..84aa8f5
+Fast-forward
+ .gitignore                                         |     8 +
+ INFOBULLE en JQUERY.mkv                            |   Bin 0 -> 21232838 bytes
+ JQUERY_2024/jquery-3.7.1.js                        | 10716 ++++++++++++++++++
+ JQUERY_2024/jquery-3.7.1.min.js                    |     2 +
+ JQUERY_2024/jquery-3.7.1.min.map                   |     1 +
+ JQUERY_2024/jquery-3.7.1.slim.js                   |  8617 ++++++++++++++
+ JQUERY_2024/jquery-3.7.1.slim.min.js               |     2 +
+ JQUERY_2024/jquery-3.7.1.slim.min.map              |     1 +
+ JQUERY_2024/jquery-migrate-1.4.1.js                |   752 ++
+ JQUERY_2024/jquery-migrate-1.4.1.min.js            |     2 +
+ JQUERY_2024/jquery-migrate-3.5.0.js                |  1031 ++
+ JQUERY_2024/jquery-migrate-3.5.0.min.js            |     2 +
+ bootstrap-5.0.2/.babelrc.js                        |    12 +
+ bootstrap-5.0.2/.browserslistrc                    |    11 +
+ bootstrap-5.0.2/.bundlewatch.config.json           |    66 +
+ bootstrap-5.0.2/.editorconfig                      |    11 +
+ bootstrap-5.0.2/.eslintignore                      |     6 +
+ bootstrap-5.0.2/.eslintrc.json                     |    59 +
+ bootstrap-5.0.2/.gitattributes                     |     8 +
+ bootstrap-5.0.2/.github/CODEOWNERS                 |     3 +
+ bootstrap-5.0.2/.github/CONTRIBUTING.md            |   239 +
+ .../.github/ISSUE_TEMPLATE/bug_report.md           |    20 +
+ bootstrap-5.0.2/.github/ISSUE_TEMPLATE/config.yml  |     4 +
+ .../.github/ISSUE_TEMPLATE/feature_request.md      |    18 +
+ bootstrap-5.0.2/.github/SUPPORT.md                 |    11 +
+ bootstrap-5.0.2/.github/dependabot.yml             |    24 +
+ bootstrap-5.0.2/.github/release-drafter.yml        |    57 +
+ bootstrap-5.0.2/.github/workflows/browserstack.yml |    43 +
+ bootstrap-5.0.2/.github/workflows/bundlewatch.yml  |    42 +
+ bootstrap-5.0.2/.github/workflows/codeql.yml       |    37 +
+ bootstrap-5.0.2/.github/workflows/css.yml          |    38 +
+ bootstrap-5.0.2/.github/workflows/docs.yml         |    40 +
+ bootstrap-5.0.2/.github/workflows/js.yml           |    53 +
+ bootstrap-5.0.2/.github/workflows/lint.yml         |    38 +
+ bootstrap-5.0.2/.github/workflows/node-sass.yml    |    30 +
+ .../.github/workflows/release-notes.yml            |    15 +
+ bootstrap-5.0.2/.gitignore                         |    41 +
+ bootstrap-5.0.2/.stylelintignore                   |     5 +
+ bootstrap-5.0.2/.stylelintrc                       |    31 +
+ bootstrap-5.0.2/CODE_OF_CONDUCT.md                 |    43 +
+ bootstrap-5.0.2/LICENSE                            |    22 +
+ bootstrap-5.0.2/README.md                          |   239 +
+ bootstrap-5.0.2/SECURITY.md                        |     7 +
+ bootstrap-5.0.2/build/.eslintrc.json               |    14 +
+ bootstrap-5.0.2/build/banner.js                    |    14 +
+ bootstrap-5.0.2/build/build-plugins.js             |   191 +
+ bootstrap-5.0.2/build/change-version.js            |    81 +
+ bootstrap-5.0.2/build/generate-sri.js              |    64 +
+ bootstrap-5.0.2/build/postcss.config.js            |    19 +
+ bootstrap-5.0.2/build/rollup.config.js             |    56 +
+ bootstrap-5.0.2/build/svgo.yml                     |    59 +
+ bootstrap-5.0.2/build/vnu-jar.js                   |    53 +
+ bootstrap-5.0.2/build/zip-examples.js              |    90 +
+ bootstrap-5.0.2/composer.json                      |    32 +
+ bootstrap-5.0.2/config.yml                         |    79 +
+ bootstrap-5.0.2/dist/css/bootstrap-grid.css        |  5002 +++++++++
+ bootstrap-5.0.2/dist/css/bootstrap-grid.css.map    |   Bin 0 -> 190817 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-grid.min.css    |     7 +
+ .../dist/css/bootstrap-grid.min.css.map            |   Bin 0 -> 116090 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css    |  5001 +++++++++
+ .../dist/css/bootstrap-grid.rtl.css.map            |   Bin 0 -> 190821 bytes
+ .../dist/css/bootstrap-grid.rtl.min.css            |     7 +
+ .../dist/css/bootstrap-grid.rtl.min.css.map        |   Bin 0 -> 116167 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-reboot.css      |   426 +
+ bootstrap-5.0.2/dist/css/bootstrap-reboot.css.map  |   Bin 0 -> 100491 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css  |     8 +
+ .../dist/css/bootstrap-reboot.min.css.map          |   Bin 0 -> 35173 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css  |   423 +
+ .../dist/css/bootstrap-reboot.rtl.css.map          |   Bin 0 -> 100504 bytes
+ .../dist/css/bootstrap-reboot.rtl.min.css          |     8 +
+ .../dist/css/bootstrap-reboot.rtl.min.css.map      |   Bin 0 -> 41460 bytes
+ bootstrap-5.0.2/dist/css/bootstrap-utilities.css   |  4752 ++++++++
+ .../dist/css/bootstrap-utilities.css.map           |   Bin 0 -> 183048 bytes
+ .../dist/css/bootstrap-utilities.min.css           |     7 +
+ .../dist/css/bootstrap-utilities.min.css.map       |   Bin 0 -> 107203 bytes
+ .../dist/css/bootstrap-utilities.rtl.css           |  4743 ++++++++
+ .../dist/css/bootstrap-utilities.rtl.css.map       |   Bin 0 -> 182992 bytes
+ .../dist/css/bootstrap-utilities.rtl.min.css       |     7 +
+ .../dist/css/bootstrap-utilities.rtl.min.css.map   |   Bin 0 -> 107038 bytes
+ bootstrap-5.0.2/dist/css/bootstrap.css             | 10837 ++++++++++++++++++
+ bootstrap-5.0.2/dist/css/bootstrap.css.map         |   Bin 0 -> 514512 bytes
+ bootstrap-5.0.2/dist/css/bootstrap.min.css         |     7 +
+ bootstrap-5.0.2/dist/css/bootstrap.min.css.map     |   Bin 0 -> 431289 bytes
+ bootstrap-5.0.2/dist/css/bootstrap.rtl.css         | 10813 ++++++++++++++++++
+ bootstrap-5.0.2/dist/css/bootstrap.rtl.css.map     |   Bin 0 -> 514427 bytes
+ bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css     |     7 +
+ bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css.map |   Bin 0 -> 634884 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.bundle.js        |  6748 +++++++++++
+ bootstrap-5.0.2/dist/js/bootstrap.bundle.js.map    |   Bin 0 -> 424464 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js    |     7 +
+ .../dist/js/bootstrap.bundle.min.js.map            |   Bin 0 -> 325834 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.esm.js           |  4967 +++++++++
+ bootstrap-5.0.2/dist/js/bootstrap.esm.js.map       |   Bin 0 -> 289108 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.esm.min.js       |     7 +
+ bootstrap-5.0.2/dist/js/bootstrap.esm.min.js.map   |   Bin 0 -> 222599 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.js               |  5016 +++++++++
+ bootstrap-5.0.2/dist/js/bootstrap.js.map           |   Bin 0 -> 290309 bytes
+ bootstrap-5.0.2/dist/js/bootstrap.min.js           |     7 +
+ bootstrap-5.0.2/dist/js/bootstrap.min.js.map       |   Bin 0 -> 217084 bytes
+ bootstrap-5.0.2/js/dist/alert.js                   |   205 +
+ bootstrap-5.0.2/js/dist/alert.js.map               |   Bin 0 -> 16963 bytes
+ bootstrap-5.0.2/js/dist/base-component.js          |   178 +
+ bootstrap-5.0.2/js/dist/base-component.js.map      |   Bin 0 -> 14991 bytes
+ bootstrap-5.0.2/js/dist/button.js                  |   139 +
+ bootstrap-5.0.2/js/dist/button.js.map              |   Bin 0 -> 13964 bytes
+ bootstrap-5.0.2/js/dist/carousel.js                |   721 ++
+ bootstrap-5.0.2/js/dist/carousel.js.map            |   Bin 0 -> 48174 bytes
+ bootstrap-5.0.2/js/dist/collapse.js                |   512 +
+ bootstrap-5.0.2/js/dist/collapse.js.map            |   Bin 0 -> 34121 bytes
+ bootstrap-5.0.2/js/dist/dom/data.js                |    69 +
+ bootstrap-5.0.2/js/dist/dom/data.js.map            |   Bin 0 -> 3052 bytes
+ bootstrap-5.0.2/js/dist/dom/event-handler.js       |   316 +
+ bootstrap-5.0.2/js/dist/dom/event-handler.js.map   |   Bin 0 -> 29132 bytes
+ bootstrap-5.0.2/js/dist/dom/manipulator.js         |    89 +
+ bootstrap-5.0.2/js/dist/dom/manipulator.js.map     |   Bin 0 -> 4449 bytes
+ bootstrap-5.0.2/js/dist/dom/selector-engine.js     |    86 +
+ bootstrap-5.0.2/js/dist/dom/selector-engine.js.map |   Bin 0 -> 3910 bytes
+ bootstrap-5.0.2/js/dist/dropdown.js                |   697 ++
+ bootstrap-5.0.2/js/dist/dropdown.js.map            |   Bin 0 -> 43965 bytes
+ bootstrap-5.0.2/js/dist/modal.js                   |   888 ++
+ bootstrap-5.0.2/js/dist/modal.js.map               |   Bin 0 -> 52045 bytes
+ bootstrap-5.0.2/js/dist/offcanvas.js               |   721 ++
+ bootstrap-5.0.2/js/dist/offcanvas.js.map           |   Bin 0 -> 42386 bytes
+ bootstrap-5.0.2/js/dist/popover.js                 |   217 +
+ bootstrap-5.0.2/js/dist/popover.js.map             |   Bin 0 -> 18631 bytes
+ bootstrap-5.0.2/js/dist/scrollspy.js               |   410 +
+ bootstrap-5.0.2/js/dist/scrollspy.js.map           |   Bin 0 -> 29932 bytes
+ bootstrap-5.0.2/js/dist/tab.js                     |   314 +
+ bootstrap-5.0.2/js/dist/tab.js.map                 |   Bin 0 -> 24140 bytes
+ bootstrap-5.0.2/js/dist/toast.js                   |   328 +
+ bootstrap-5.0.2/js/dist/toast.js.map               |   Bin 0 -> 23372 bytes
+ bootstrap-5.0.2/js/dist/tooltip.js                 |   988 ++
+ bootstrap-5.0.2/js/dist/tooltip.js.map             |   Bin 0 -> 60353 bytes
+ bootstrap-5.0.2/js/index.esm.js                    |    34 +
+ bootstrap-5.0.2/js/index.umd.js                    |    34 +
+ bootstrap-5.0.2/js/src/alert.js                    |   125 +
+ bootstrap-5.0.2/js/src/base-component.js           |    75 +
+ bootstrap-5.0.2/js/src/button.js                   |    86 +
+ bootstrap-5.0.2/js/src/carousel.js                 |   586 +
+ bootstrap-5.0.2/js/src/collapse.js                 |   388 +
+ bootstrap-5.0.2/js/src/dom/data.js                 |    57 +
+ bootstrap-5.0.2/js/src/dom/event-handler.js        |   349 +
+ bootstrap-5.0.2/js/src/dom/manipulator.js          |    80 +
+ bootstrap-5.0.2/js/src/dom/selector-engine.js      |    75 +
+ bootstrap-5.0.2/js/src/dropdown.js                 |   514 +
+ bootstrap-5.0.2/js/src/modal.js                    |   448 +
+ bootstrap-5.0.2/js/src/offcanvas.js                |   274 +
+ bootstrap-5.0.2/js/src/popover.js                  |   170 +
+ bootstrap-5.0.2/js/src/scrollspy.js                |   308 +
+ bootstrap-5.0.2/js/src/tab.js                      |   224 +
+ bootstrap-5.0.2/js/src/toast.js                    |   242 +
+ bootstrap-5.0.2/js/src/tooltip.js                  |   747 ++
+ bootstrap-5.0.2/js/src/util/backdrop.js            |   129 +
+ bootstrap-5.0.2/js/src/util/index.js               |   324 +
+ bootstrap-5.0.2/js/src/util/sanitizer.js           |   127 +
+ bootstrap-5.0.2/js/src/util/scrollbar.js           |    97 +
+ bootstrap-5.0.2/js/tests/README.md                 |    71 +
+ bootstrap-5.0.2/js/tests/browsers.js               |    68 +
+ bootstrap-5.0.2/js/tests/helpers/fixture.js        |    50 +
+ .../js/tests/integration/bundle-modularity.js      |     7 +
+ bootstrap-5.0.2/js/tests/integration/bundle.js     |     6 +
+ bootstrap-5.0.2/js/tests/integration/index.html    |    67 +
+ .../tests/integration/rollup.bundle-modularity.js  |    17 +
+ .../js/tests/integration/rollup.bundle.js          |    24 +
+ bootstrap-5.0.2/js/tests/karma.conf.js             |   174 +
+ bootstrap-5.0.2/js/tests/unit/.eslintrc.json       |     8 +
+ bootstrap-5.0.2/js/tests/unit/alert.spec.js        |   232 +
+ .../js/tests/unit/base-component.spec.js           |   133 +
+ bootstrap-5.0.2/js/tests/unit/button.spec.js       |   189 +
+ bootstrap-5.0.2/js/tests/unit/carousel.spec.js     |  1533 +++
+ bootstrap-5.0.2/js/tests/unit/collapse.spec.js     |   919 ++
+ bootstrap-5.0.2/js/tests/unit/dom/data.spec.js     |   106 +
+ .../js/tests/unit/dom/event-handler.spec.js        |   417 +
+ .../js/tests/unit/dom/manipulator.spec.js          |   136 +
+ .../js/tests/unit/dom/selector-engine.spec.js      |   160 +
+ bootstrap-5.0.2/js/tests/unit/dropdown.spec.js     |  2142 ++++
+ bootstrap-5.0.2/js/tests/unit/jquery.spec.js       |    57 +
+ bootstrap-5.0.2/js/tests/unit/modal.spec.js        |  1114 ++
+ bootstrap-5.0.2/js/tests/unit/offcanvas.spec.js    |   727 ++
+ bootstrap-5.0.2/js/tests/unit/popover.spec.js      |   344 +
+ bootstrap-5.0.2/js/tests/unit/scrollspy.spec.js    |   752 ++
+ bootstrap-5.0.2/js/tests/unit/tab.spec.js          |   760 ++
+ bootstrap-5.0.2/js/tests/unit/toast.spec.js        |   648 ++
+ bootstrap-5.0.2/js/tests/unit/tooltip.spec.js      |  1422 +++
+ .../js/tests/unit/util/backdrop.spec.js            |   276 +
+ bootstrap-5.0.2/js/tests/unit/util/index.spec.js   |   816 ++
+ .../js/tests/unit/util/sanitizer.spec.js           |    80 +
+ .../js/tests/unit/util/scrollbar.spec.js           |   353 +
+ bootstrap-5.0.2/js/tests/visual/alert.html         |    52 +
+ bootstrap-5.0.2/js/tests/visual/button.html        |    53 +
+ bootstrap-5.0.2/js/tests/visual/carousel.html      |    70 +
+ bootstrap-5.0.2/js/tests/visual/collapse.html      |    81 +
+ bootstrap-5.0.2/js/tests/visual/dropdown.html      |   212 +
+ bootstrap-5.0.2/js/tests/visual/modal.html         |   293 +
+ bootstrap-5.0.2/js/tests/visual/popover.html       |    49 +
+ bootstrap-5.0.2/js/tests/visual/scrollspy.html     |    98 +
+ bootstrap-5.0.2/js/tests/visual/tab.html           |   230 +
+ bootstrap-5.0.2/js/tests/visual/toast.html         |    83 +
+ bootstrap-5.0.2/js/tests/visual/tooltip.html       |   113 +
+ bootstrap-5.0.2/nuget/MyGet.ps1                    |    19 +
+ bootstrap-5.0.2/nuget/bootstrap.nuspec             |    36 +
+ bootstrap-5.0.2/nuget/bootstrap.png                |   Bin 0 -> 1684 bytes
+ bootstrap-5.0.2/nuget/bootstrap.sass.nuspec        |    36 +
+ bootstrap-5.0.2/package-lock.json                  | 11157 +++++++++++++++++++
+ bootstrap-5.0.2/package.js                         |    18 +
+ bootstrap-5.0.2/package.json                       |   177 +
+ bootstrap-5.0.2/scss/_accordion.scss               |   118 +
+ bootstrap-5.0.2/scss/_alert.scss                   |    57 +
+ bootstrap-5.0.2/scss/_badge.scss                   |    29 +
+ bootstrap-5.0.2/scss/_breadcrumb.scss              |    28 +
+ bootstrap-5.0.2/scss/_button-group.scss            |   139 +
+ bootstrap-5.0.2/scss/_buttons.scss                 |   111 +
+ bootstrap-5.0.2/scss/_card.scss                    |   215 +
+ bootstrap-5.0.2/scss/_carousel.scss                |   229 +
+ bootstrap-5.0.2/scss/_close.scss                   |    40 +
+ bootstrap-5.0.2/scss/_containers.scss              |    41 +
+ bootstrap-5.0.2/scss/_dropdown.scss                |   240 +
+ bootstrap-5.0.2/scss/_forms.scss                   |     9 +
+ bootstrap-5.0.2/scss/_functions.scss               |   263 +
+ bootstrap-5.0.2/scss/_grid.scss                    |    22 +
+ bootstrap-5.0.2/scss/_helpers.scss                 |     7 +
+ bootstrap-5.0.2/scss/_images.scss                  |    42 +
+ bootstrap-5.0.2/scss/_list-group.scss              |   174 +
+ bootstrap-5.0.2/scss/_mixins.scss                  |    42 +
+ bootstrap-5.0.2/scss/_modal.scss                   |   219 +
+ bootstrap-5.0.2/scss/_nav.scss                     |   139 +
+ bootstrap-5.0.2/scss/_navbar.scss                  |   306 +
+ bootstrap-5.0.2/scss/_offcanvas.scss               |    79 +
+ bootstrap-5.0.2/scss/_pagination.scss              |    64 +
+ bootstrap-5.0.2/scss/_popover.scss                 |   158 +
+ bootstrap-5.0.2/scss/_progress.scss                |    48 +
+ bootstrap-5.0.2/scss/_reboot.scss                  |   621 ++
+ bootstrap-5.0.2/scss/_root.scss                    |    16 +
+ bootstrap-5.0.2/scss/_spinners.scss                |    69 +
+ bootstrap-5.0.2/scss/_tables.scss                  |   151 +
+ bootstrap-5.0.2/scss/_toasts.scss                  |    51 +
+ bootstrap-5.0.2/scss/_tooltip.scss                 |   115 +
+ bootstrap-5.0.2/scss/_transitions.scss             |    21 +
+ bootstrap-5.0.2/scss/_type.scss                    |   104 +
+ bootstrap-5.0.2/scss/_utilities.scss               |   594 +
+ bootstrap-5.0.2/scss/_variables.scss               |  1468 +++
+ bootstrap-5.0.2/scss/bootstrap-grid.scss           |    65 +
+ bootstrap-5.0.2/scss/bootstrap-reboot.scss         |    15 +
+ bootstrap-5.0.2/scss/bootstrap-utilities.scss      |    18 +
+ bootstrap-5.0.2/scss/bootstrap.scss                |    52 +
+ bootstrap-5.0.2/scss/forms/_floating-labels.scss   |    63 +
+ bootstrap-5.0.2/scss/forms/_form-check.scss        |   152 +
+ bootstrap-5.0.2/scss/forms/_form-control.scss      |   219 +
+ bootstrap-5.0.2/scss/forms/_form-range.scss        |    91 +
+ bootstrap-5.0.2/scss/forms/_form-select.scss       |    70 +
+ bootstrap-5.0.2/scss/forms/_form-text.scss         |    11 +
+ bootstrap-5.0.2/scss/forms/_input-group.scss       |   121 +
+ bootstrap-5.0.2/scss/forms/_labels.scss            |    36 +
+ bootstrap-5.0.2/scss/forms/_validation.scss        |    12 +
+ bootstrap-5.0.2/scss/helpers/_clearfix.scss        |     3 +
+ bootstrap-5.0.2/scss/helpers/_colored-links.scss   |    12 +
+ bootstrap-5.0.2/scss/helpers/_position.scss        |    30 +
+ bootstrap-5.0.2/scss/helpers/_ratio.scss           |    26 +
+ bootstrap-5.0.2/scss/helpers/_stretched-link.scss  |    15 +
+ bootstrap-5.0.2/scss/helpers/_text-truncation.scss |     7 +
+ bootstrap-5.0.2/scss/helpers/_visually-hidden.scss |     8 +
+ bootstrap-5.0.2/scss/mixins/_alert.scss            |    11 +
+ bootstrap-5.0.2/scss/mixins/_border-radius.scss    |    78 +
+ bootstrap-5.0.2/scss/mixins/_box-shadow.scss       |    18 +
+ bootstrap-5.0.2/scss/mixins/_breakpoints.scss      |   127 +
+ bootstrap-5.0.2/scss/mixins/_buttons.scss          |   133 +
+ bootstrap-5.0.2/scss/mixins/_caret.scss            |    64 +
+ bootstrap-5.0.2/scss/mixins/_clearfix.scss         |     9 +
+ bootstrap-5.0.2/scss/mixins/_color-scheme.scss     |     7 +
+ bootstrap-5.0.2/scss/mixins/_container.scss        |     9 +
+ bootstrap-5.0.2/scss/mixins/_deprecate.scss        |    10 +
+ bootstrap-5.0.2/scss/mixins/_forms.scss            |   144 +
+ bootstrap-5.0.2/scss/mixins/_gradients.scss        |    47 +
+ bootstrap-5.0.2/scss/mixins/_grid.scss             |   132 +
+ bootstrap-5.0.2/scss/mixins/_image.scss            |    16 +
+ bootstrap-5.0.2/scss/mixins/_list-group.scss       |    24 +
+ bootstrap-5.0.2/scss/mixins/_lists.scss            |     7 +
+ bootstrap-5.0.2/scss/mixins/_pagination.scss       |    31 +
+ bootstrap-5.0.2/scss/mixins/_reset-text.scss       |    17 +
+ bootstrap-5.0.2/scss/mixins/_resize.scss           |     6 +
+ bootstrap-5.0.2/scss/mixins/_table-variants.scss   |    21 +
+ bootstrap-5.0.2/scss/mixins/_text-truncate.scss    |     8 +
+ bootstrap-5.0.2/scss/mixins/_transition.scss       |    26 +
+ bootstrap-5.0.2/scss/mixins/_utilities.scss        |    68 +
+ bootstrap-5.0.2/scss/mixins/_visually-hidden.scss  |    29 +
+ bootstrap-5.0.2/scss/utilities/_api.scss           |    47 +
+ bootstrap-5.0.2/scss/vendor/_rfs.scss              |   354 +
+ bootstrap-5.0.2/site/.eslintrc.json                |    49 +
+ bootstrap-5.0.2/site/assets/js/application.js      |   165 +
+ bootstrap-5.0.2/site/assets/js/search.js           |    53 +
+ .../site/assets/js/vendor/anchor.min.js            |     9 +
+ .../site/assets/js/vendor/clipboard.min.js         |     7 +
+ bootstrap-5.0.2/site/assets/scss/_ads.scss         |    39 +
+ bootstrap-5.0.2/site/assets/scss/_algolia.scss     |    92 +
+ bootstrap-5.0.2/site/assets/scss/_anchor.scss      |    11 +
+ bootstrap-5.0.2/site/assets/scss/_brand.scss       |    60 +
+ bootstrap-5.0.2/site/assets/scss/_buttons.scss     |    55 +
+ bootstrap-5.0.2/site/assets/scss/_callouts.scss    |    41 +
+ .../site/assets/scss/_clipboard-js.scss            |    37 +
+ bootstrap-5.0.2/site/assets/scss/_colors.scss      |   156 +
+ .../site/assets/scss/_component-examples.scss      |   322 +
+ bootstrap-5.0.2/site/assets/scss/_content.scss     |    81 +
+ bootstrap-5.0.2/site/assets/scss/_footer.scss      |    16 +
+ bootstrap-5.0.2/site/assets/scss/_layout.scss      |    51 +
+ bootstrap-5.0.2/site/assets/scss/_masthead.scss    |    38 +
+ bootstrap-5.0.2/site/assets/scss/_navbar.scss      |    32 +
+ .../site/assets/scss/_placeholder-img.scss         |    15 +
+ bootstrap-5.0.2/site/assets/scss/_sidebar.scss     |    87 +
+ bootstrap-5.0.2/site/assets/scss/_skippy.scss      |     7 +
+ bootstrap-5.0.2/site/assets/scss/_subnav.scss      |    79 +
+ bootstrap-5.0.2/site/assets/scss/_syntax.scss      |   102 +
+ bootstrap-5.0.2/site/assets/scss/_toc.scss         |    42 +
+ bootstrap-5.0.2/site/assets/scss/_variables.scss   |    13 +
+ bootstrap-5.0.2/site/assets/scss/docs.scss         |    54 +
+ bootstrap-5.0.2/site/content/404.md                |    13 +
+ bootstrap-5.0.2/site/content/docs/5.0/_index.html  |     5 +
+ .../site/content/docs/5.0/about/brand.md           |    47 +
+ .../site/content/docs/5.0/about/license.md         |    34 +
+ .../site/content/docs/5.0/about/overview.md        |    29 +
+ .../site/content/docs/5.0/about/team.md            |    23 +
+ .../site/content/docs/5.0/about/translations.md    |    20 +
+ .../site/content/docs/5.0/components/accordion.md  |   157 +
+ .../site/content/docs/5.0/components/alerts.md     |   264 +
+ .../site/content/docs/5.0/components/badge.md      |    93 +
+ .../site/content/docs/5.0/components/breadcrumb.md |    96 +
+ .../content/docs/5.0/components/button-group.md    |   268 +
+ .../site/content/docs/5.0/components/buttons.md    |   246 +
+ .../site/content/docs/5.0/components/card.md       |   729 ++
+ .../site/content/docs/5.0/components/carousel.md   |   471 +
+ .../content/docs/5.0/components/close-button.md    |    38 +
+ .../site/content/docs/5.0/components/collapse.md   |   245 +
+ .../site/content/docs/5.0/components/dropdowns.md  |  1210 ++
+ .../site/content/docs/5.0/components/list-group.md |   542 +
+ .../site/content/docs/5.0/components/modal.md      |  1004 ++
+ .../site/content/docs/5.0/components/navbar.md     |   670 ++
+ .../site/content/docs/5.0/components/navs-tabs.md  |   680 ++
+ .../site/content/docs/5.0/components/offcanvas.md  |   265 +
+ .../site/content/docs/5.0/components/pagination.md |   167 +
+ .../site/content/docs/5.0/components/popovers.md   |   443 +
+ .../site/content/docs/5.0/components/progress.md   |   151 +
+ .../site/content/docs/5.0/components/scrollspy.md  |   367 +
+ .../site/content/docs/5.0/components/spinners.md   |   195 +
+ .../site/content/docs/5.0/components/toasts.md     |   446 +
+ .../site/content/docs/5.0/components/tooltips.md   |   471 +
+ .../site/content/docs/5.0/content/figures.md       |    33 +
+ .../site/content/docs/5.0/content/images.md        |    63 +
+ .../site/content/docs/5.0/content/reboot.md        |   443 +
+ .../site/content/docs/5.0/content/tables.md        |   789 ++
+ .../site/content/docs/5.0/content/typography.md    |   320 +
+ .../site/content/docs/5.0/customize/color.md       |   108 +
+ .../site/content/docs/5.0/customize/components.md  |    77 +
+ .../content/docs/5.0/customize/css-variables.md    |    50 +
+ .../site/content/docs/5.0/customize/optimize.md    |    92 +
+ .../site/content/docs/5.0/customize/options.md     |    29 +
+ .../site/content/docs/5.0/customize/overview.md    |    51 +
+ .../site/content/docs/5.0/customize/sass.md        |   298 +
+ .../site/content/docs/5.0/examples/.stylelintrc    |    15 +
+ .../site/content/docs/5.0/examples/_index.md       |    36 +
+ .../content/docs/5.0/examples/album-rtl/index.html |   209 +
+ .../content/docs/5.0/examples/album/index.html     |   208 +
+ .../content/docs/5.0/examples/blog-rtl/index.html  |   206 +
+ .../site/content/docs/5.0/examples/blog/blog.css   |   103 +
+ .../content/docs/5.0/examples/blog/blog.rtl.css    |   103 +
+ .../site/content/docs/5.0/examples/blog/index.html |   258 +
+ .../docs/5.0/examples/carousel-rtl/index.html      |   167 +
+ .../docs/5.0/examples/carousel/carousel.css        |    93 +
+ .../docs/5.0/examples/carousel/carousel.rtl.css    |    89 +
+ .../content/docs/5.0/examples/carousel/index.html  |   166 +
+ .../docs/5.0/examples/cheatsheet-rtl/index.html    |  1605 +++
+ .../docs/5.0/examples/cheatsheet/cheatsheet.css    |   169 +
+ .../docs/5.0/examples/cheatsheet/cheatsheet.js     |    73 +
+ .../5.0/examples/cheatsheet/cheatsheet.rtl.css     |   162 +
+ .../docs/5.0/examples/cheatsheet/index.html        |  1589 +++
+ .../docs/5.0/examples/checkout-rtl/index.html      |   232 +
+ .../docs/5.0/examples/checkout/form-validation.css |     3 +
+ .../docs/5.0/examples/checkout/form-validation.js  |    20 +
+ .../content/docs/5.0/examples/checkout/index.html  |   232 +
+ .../site/content/docs/5.0/examples/cover/cover.css |    53 +
+ .../content/docs/5.0/examples/cover/index.html     |    34 +
+ .../docs/5.0/examples/dashboard-rtl/dashboard.js   |    53 +
+ .../docs/5.0/examples/dashboard-rtl/index.html     |   253 +
+ .../docs/5.0/examples/dashboard/dashboard.css      |   100 +
+ .../docs/5.0/examples/dashboard/dashboard.js       |    53 +
+ .../docs/5.0/examples/dashboard/dashboard.rtl.css  |    96 +
+ .../content/docs/5.0/examples/dashboard/index.html |   252 +
+ .../docs/5.0/examples/features/features.css        |    61 +
+ .../content/docs/5.0/examples/features/index.html  |   288 +
+ .../5.0/examples/features/unsplash-photo-1.jpg     |   Bin 0 -> 10451 bytes
+ .../5.0/examples/features/unsplash-photo-2.jpg     |   Bin 0 -> 113018 bytes
+ .../5.0/examples/features/unsplash-photo-3.jpg     |   Bin 0 -> 40607 bytes
+ .../site/content/docs/5.0/examples/grid/grid.css   |    13 +
+ .../site/content/docs/5.0/examples/grid/index.html |   188 +
+ .../content/docs/5.0/examples/headers/headers.css  |    32 +
+ .../content/docs/5.0/examples/headers/index.html   |   295 +
+ .../docs/5.0/examples/heroes/bootstrap-docs.png    |   Bin 0 -> 371399 bytes
+ .../docs/5.0/examples/heroes/bootstrap-themes.png  |   Bin 0 -> 278159 bytes
+ .../content/docs/5.0/examples/heroes/heroes.css    |    11 +
+ .../content/docs/5.0/examples/heroes/index.html    |   125 +
+ .../content/docs/5.0/examples/jumbotron/index.html |    45 +
+ .../content/docs/5.0/examples/masonry/index.html   |   105 +
+ .../docs/5.0/examples/navbar-bottom/index.html     |    41 +
+ .../docs/5.0/examples/navbar-fixed/index.html      |    40 +
+ .../5.0/examples/navbar-fixed/navbar-top-fixed.css |     5 +
+ .../docs/5.0/examples/navbar-static/index.html     |    40 +
+ .../docs/5.0/examples/navbar-static/navbar-top.css |     4 +
+ .../content/docs/5.0/examples/navbars/index.html   |   416 +
+ .../content/docs/5.0/examples/navbars/navbar.css   |     7 +
+ .../docs/5.0/examples/offcanvas-navbar/index.html  |   140 +
+ .../5.0/examples/offcanvas-navbar/offcanvas.css    |    67 +
+ .../5.0/examples/offcanvas-navbar/offcanvas.js     |     7 +
+ .../content/docs/5.0/examples/pricing/index.html   |   187 +
+ .../content/docs/5.0/examples/pricing/pricing.css  |    11 +
+ .../content/docs/5.0/examples/product/index.html   |   148 +
+ .../content/docs/5.0/examples/product/product.css  |    69 +
+ .../content/docs/5.0/examples/sidebars/index.html  |   391 +
+ .../docs/5.0/examples/sidebars/sidebars.css        |    89 +
+ .../content/docs/5.0/examples/sidebars/sidebars.js |     8 +
+ .../content/docs/5.0/examples/sign-in/index.html   |    32 +
+ .../content/docs/5.0/examples/sign-in/signin.css   |    39 +
+ .../docs/5.0/examples/starter-template/index.html  |    51 +
+ .../examples/starter-template/starter-template.css |    18 +
+ .../5.0/examples/sticky-footer-navbar/index.html   |    52 +
+ .../sticky-footer-navbar/sticky-footer-navbar.css  |     7 +
+ .../docs/5.0/examples/sticky-footer/index.html     |    24 +
+ .../5.0/examples/sticky-footer/sticky-footer.css   |     9 +
+ .../site/content/docs/5.0/extend/approach.md       |    86 +
+ .../site/content/docs/5.0/extend/icons.md          |    40 +
+ .../site/content/docs/5.0/forms/checks-radios.md   |   277 +
+ .../site/content/docs/5.0/forms/floating-labels.md |   108 +
+ .../site/content/docs/5.0/forms/form-control.md    |   150 +
+ .../site/content/docs/5.0/forms/input-group.md     |   316 +
+ .../site/content/docs/5.0/forms/layout.md          |   330 +
+ .../site/content/docs/5.0/forms/overview.md        |   154 +
+ .../site/content/docs/5.0/forms/range.md           |    49 +
+ .../site/content/docs/5.0/forms/select.md          |    81 +
+ .../site/content/docs/5.0/forms/validation.md      |   382 +
+ .../docs/5.0/getting-started/accessibility.md      |    62 +
+ .../docs/5.0/getting-started/best-practices.md     |    20 +
+ .../docs/5.0/getting-started/browsers-devices.md   |   124 +
+ .../docs/5.0/getting-started/build-tools.md        |   102 +
+ .../content/docs/5.0/getting-started/contents.md   |   180 +
+ .../content/docs/5.0/getting-started/download.md   |   119 +
+ .../docs/5.0/getting-started/introduction.md       |   161 +
+ .../content/docs/5.0/getting-started/javascript.md |   238 +
+ .../content/docs/5.0/getting-started/parcel.md     |    99 +
+ .../site/content/docs/5.0/getting-started/rfs.md   |    86 +
+ .../site/content/docs/5.0/getting-started/rtl.md   |   182 +
+ .../content/docs/5.0/getting-started/webpack.md    |   104 +
+ .../site/content/docs/5.0/helpers/clearfix.md      |    36 +
+ .../site/content/docs/5.0/helpers/colored-links.md |    21 +
+ .../site/content/docs/5.0/helpers/position.md      |    42 +
+ .../site/content/docs/5.0/helpers/ratio.md         |    81 +
+ .../content/docs/5.0/helpers/stretched-link.md     |    74 +
+ .../content/docs/5.0/helpers/text-truncation.md    |    23 +
+ .../content/docs/5.0/helpers/visually-hidden.md    |    29 +
+ .../site/content/docs/5.0/layout/breakpoints.md    |   204 +
+ .../site/content/docs/5.0/layout/columns.md        |   317 +
+ .../site/content/docs/5.0/layout/containers.md     |   176 +
+ .../site/content/docs/5.0/layout/grid.md           |   545 +
+ .../site/content/docs/5.0/layout/gutters.md        |   165 +
+ .../site/content/docs/5.0/layout/utilities.md      |    25 +
+ .../site/content/docs/5.0/layout/z-index.md        |    16 +
+ bootstrap-5.0.2/site/content/docs/5.0/migration.md |   383 +
+ .../site/content/docs/5.0/utilities/api.md         |   409 +
+ .../site/content/docs/5.0/utilities/background.md  |    78 +
+ .../site/content/docs/5.0/utilities/borders.md     |    99 +
+ .../site/content/docs/5.0/utilities/colors.md      |    64 +
+ .../site/content/docs/5.0/utilities/display.md     |   160 +
+ .../site/content/docs/5.0/utilities/flex.md        |   665 ++
+ .../site/content/docs/5.0/utilities/float.md       |    48 +
+ .../content/docs/5.0/utilities/interactions.md     |    39 +
+ .../site/content/docs/5.0/utilities/overflow.md    |    40 +
+ .../site/content/docs/5.0/utilities/position.md    |   130 +
+ .../site/content/docs/5.0/utilities/shadows.md     |    30 +
+ .../site/content/docs/5.0/utilities/sizing.md      |    60 +
+ .../site/content/docs/5.0/utilities/spacing.md     |   125 +
+ .../site/content/docs/5.0/utilities/text.md        |   154 +
+ .../content/docs/5.0/utilities/vertical-align.md   |    48 +
+ .../site/content/docs/5.0/utilities/visibility.md  |    37 +
+ bootstrap-5.0.2/site/content/docs/_index.html      |     5 +
+ bootstrap-5.0.2/site/content/docs/versions.md      |    27 +
+ bootstrap-5.0.2/site/data/breakpoints.yml          |    35 +
+ bootstrap-5.0.2/site/data/colors.yml               |    26 +
+ bootstrap-5.0.2/site/data/core-team.yml            |    32 +
+ bootstrap-5.0.2/site/data/docs-versions.yml        |    53 +
+ bootstrap-5.0.2/site/data/examples.yml             |    85 +
+ bootstrap-5.0.2/site/data/grays.yml                |    18 +
+ bootstrap-5.0.2/site/data/icons.yml                |    25 +
+ bootstrap-5.0.2/site/data/sidebar.yml              |   126 +
+ bootstrap-5.0.2/site/data/theme-colors.yml         |    19 +
+ bootstrap-5.0.2/site/data/translations.yml         |    44 +
+ bootstrap-5.0.2/site/layouts/_default/404.html     |     6 +
+ bootstrap-5.0.2/site/layouts/_default/baseof.html  |    20 +
+ bootstrap-5.0.2/site/layouts/_default/docs.html    |    49 +
+ .../site/layouts/_default/examples.html            |    56 +
+ bootstrap-5.0.2/site/layouts/_default/home.html    |     8 +
+ .../site/layouts/_default/redirect.html            |     1 +
+ bootstrap-5.0.2/site/layouts/_default/single.html  |    47 +
+ bootstrap-5.0.2/site/layouts/alias.html            |     1 +
+ bootstrap-5.0.2/site/layouts/partials/ads.html     |     1 +
+ .../site/layouts/partials/analytics.html           |     7 +
+ .../partials/callout-danger-async-methods.md       |     5 +
+ .../callout-info-mediaqueries-breakpoints.md       |     1 +
+ .../layouts/partials/callout-info-npm-starter.md   |     1 +
+ .../partials/callout-info-prefersreducedmotion.md  |     1 +
+ .../layouts/partials/callout-info-sanitizer.md     |     1 +
+ ...callout-warning-color-assistive-technologies.md |     3 +
+ .../partials/callout-warning-input-support.md      |     3 +
+ .../site/layouts/partials/docs-navbar.html         |    65 +
+ .../site/layouts/partials/docs-sidebar.html        |    45 +
+ .../site/layouts/partials/docs-subnav.html         |    14 +
+ .../site/layouts/partials/docs-versions.html       |    14 +
+ .../site/layouts/partials/favicons.html            |     8 +
+ bootstrap-5.0.2/site/layouts/partials/footer.html  |    57 +
+ bootstrap-5.0.2/site/layouts/partials/header.html  |    21 +
+ .../layouts/partials/home/masthead-followup.html   |    87 +
+ .../site/layouts/partials/home/masthead.html       |    28 +
+ .../partials/icons/bootstrap-logo-solid.svg        |     1 +
+ .../partials/icons/bootstrap-white-fill.svg        |     1 +
+ .../site/layouts/partials/icons/bootstrap.svg      |     1 +
+ .../site/layouts/partials/icons/circle-square.svg  |     4 +
+ .../site/layouts/partials/icons/cloud-fill.svg     |     3 +
+ .../site/layouts/partials/icons/code.svg           |     3 +
+ .../site/layouts/partials/icons/collapse.svg       |     4 +
+ .../site/layouts/partials/icons/droplet-fill.svg   |     3 +
+ .../site/layouts/partials/icons/expand.svg         |     4 +
+ .../site/layouts/partials/icons/github.svg         |     1 +
+ .../site/layouts/partials/icons/hamburger.svg      |     3 +
+ .../site/layouts/partials/icons/homepage-hero.svg  |     1 +
+ .../site/layouts/partials/icons/list.svg           |     3 +
+ .../site/layouts/partials/icons/menu.svg           |     1 +
+ .../site/layouts/partials/icons/opencollective.svg |     1 +
+ .../site/layouts/partials/icons/slack.svg          |     1 +
+ .../site/layouts/partials/icons/twitter.svg        |     1 +
+ .../site/layouts/partials/redirect.html            |    11 +
+ bootstrap-5.0.2/site/layouts/partials/scripts.html |    20 +
+ bootstrap-5.0.2/site/layouts/partials/skippy.html  |     8 +
+ bootstrap-5.0.2/site/layouts/partials/social.html  |    17 +
+ .../site/layouts/partials/stylesheet.html          |    24 +
+ .../site/layouts/partials/table-content.html       |    27 +
+ bootstrap-5.0.2/site/layouts/robots.txt            |    12 +
+ .../site/layouts/shortcodes/bs-table.html          |     9 +
+ .../site/layouts/shortcodes/callout.html           |    10 +
+ .../site/layouts/shortcodes/docsref.html           |     1 +
+ .../site/layouts/shortcodes/example.html           |    26 +
+ .../site/layouts/shortcodes/markdown.html          |     1 +
+ bootstrap-5.0.2/site/layouts/shortcodes/param.html |    12 +
+ .../site/layouts/shortcodes/partial.html           |     1 +
+ .../site/layouts/shortcodes/placeholder.html       |    30 +
+ .../site/layouts/shortcodes/scss-docs.html         |    33 +
+ bootstrap-5.0.2/site/layouts/shortcodes/table.html |    30 +
+ bootstrap-5.0.2/site/layouts/shortcodes/year.html  |     5 +
+ bootstrap-5.0.2/site/layouts/sitemap.xml           |    12 +
+ bootstrap-5.0.2/site/static/CNAME                  |     1 +
+ .../docs/5.0/assets/brand/bootstrap-logo-black.svg |     1 +
+ .../5.0/assets/brand/bootstrap-logo-shadow.png     |   Bin 0 -> 48625 bytes
+ .../docs/5.0/assets/brand/bootstrap-logo-white.svg |     1 +
+ .../docs/5.0/assets/brand/bootstrap-logo.svg       |     1 +
+ .../5.0/assets/brand/bootstrap-social-logo.png     |   Bin 0 -> 145590 bytes
+ .../docs/5.0/assets/brand/bootstrap-social.png     |   Bin 0 -> 54961 bytes
+ .../static/docs/5.0/assets/img/bootstrap-icons.png |   Bin 0 -> 40798 bytes
+ .../docs/5.0/assets/img/bootstrap-icons@2x.png     |   Bin 0 -> 125571 bytes
+ .../5.0/assets/img/bootstrap-themes-collage.png    |   Bin 0 -> 74829 bytes
+ .../5.0/assets/img/bootstrap-themes-collage@2x.png |   Bin 0 -> 244640 bytes
+ .../docs/5.0/assets/img/bootstrap-themes.png       |   Bin 0 -> 88695 bytes
+ .../docs/5.0/assets/img/bootstrap-themes@2x.png    |   Bin 0 -> 278159 bytes
+ .../docs/5.0/assets/img/examples/album-rtl.png     |   Bin 0 -> 6392 bytes
+ .../docs/5.0/assets/img/examples/album-rtl@2x.png  |   Bin 0 -> 15450 bytes
+ .../static/docs/5.0/assets/img/examples/album.png  |   Bin 0 -> 10760 bytes
+ .../docs/5.0/assets/img/examples/album@2x.png      |   Bin 0 -> 25026 bytes
+ .../docs/5.0/assets/img/examples/blog-rtl.png      |   Bin 0 -> 12545 bytes
+ .../docs/5.0/assets/img/examples/blog-rtl@2x.png   |   Bin 0 -> 31035 bytes
+ .../static/docs/5.0/assets/img/examples/blog.png   |   Bin 0 -> 15245 bytes
+ .../docs/5.0/assets/img/examples/blog@2x.png       |   Bin 0 -> 36944 bytes
+ .../docs/5.0/assets/img/examples/carousel-rtl.png  |   Bin 0 -> 10344 bytes
+ .../5.0/assets/img/examples/carousel-rtl@2x.png    |   Bin 0 -> 24535 bytes
+ .../docs/5.0/assets/img/examples/carousel.png      |   Bin 0 -> 13314 bytes
+ .../docs/5.0/assets/img/examples/carousel@2x.png   |   Bin 0 -> 31465 bytes
+ .../5.0/assets/img/examples/cheatsheet-rtl.png     |   Bin 0 -> 6089 bytes
+ .../5.0/assets/img/examples/cheatsheet-rtl@2x.png  |   Bin 0 -> 13863 bytes
+ .../docs/5.0/assets/img/examples/cheatsheet.png    |   Bin 0 -> 8132 bytes
+ .../docs/5.0/assets/img/examples/cheatsheet@2x.png |   Bin 0 -> 19324 bytes
+ .../docs/5.0/assets/img/examples/checkout-rtl.png  |   Bin 0 -> 8848 bytes
+ .../5.0/assets/img/examples/checkout-rtl@2x.png    |   Bin 0 -> 21965 bytes
+ .../docs/5.0/assets/img/examples/checkout.png      |   Bin 0 -> 7639 bytes
+ .../docs/5.0/assets/img/examples/checkout@2x.png   |   Bin 0 -> 19105 bytes
+ .../static/docs/5.0/assets/img/examples/cover.png  |   Bin 0 -> 7240 bytes
+ .../docs/5.0/assets/img/examples/cover@2x.png      |   Bin 0 -> 17953 bytes
+ .../docs/5.0/assets/img/examples/dashboard-rtl.png |   Bin 0 -> 8261 bytes
+ .../5.0/assets/img/examples/dashboard-rtl@2x.png   |   Bin 0 -> 19399 bytes
+ .../docs/5.0/assets/img/examples/dashboard.png     |   Bin 0 -> 11914 bytes
+ .../docs/5.0/assets/img/examples/dashboard@2x.png  |   Bin 0 -> 26556 bytes
+ .../docs/5.0/assets/img/examples/features.png      |   Bin 0 -> 6067 bytes
+ .../docs/5.0/assets/img/examples/features@2x.png   |   Bin 0 -> 15002 bytes
+ .../static/docs/5.0/assets/img/examples/grid.png   |   Bin 0 -> 14485 bytes
+ .../docs/5.0/assets/img/examples/grid@2x.png       |   Bin 0 -> 34834 bytes
+ .../docs/5.0/assets/img/examples/headers.png       |   Bin 0 -> 5197 bytes
+ .../docs/5.0/assets/img/examples/headers@2x.png    |   Bin 0 -> 12639 bytes
+ .../static/docs/5.0/assets/img/examples/heroes.png |   Bin 0 -> 9017 bytes
+ .../docs/5.0/assets/img/examples/heroes@2x.png     |   Bin 0 -> 23433 bytes
+ .../docs/5.0/assets/img/examples/jumbotron.png     |   Bin 0 -> 9155 bytes
+ .../docs/5.0/assets/img/examples/jumbotron@2x.png  |   Bin 0 -> 23316 bytes
+ .../docs/5.0/assets/img/examples/masonry.png       |   Bin 0 -> 15253 bytes
+ .../docs/5.0/assets/img/examples/masonry@2x.png    |   Bin 0 -> 37733 bytes
+ .../docs/5.0/assets/img/examples/navbar-bottom.png |   Bin 0 -> 4873 bytes
+ .../5.0/assets/img/examples/navbar-bottom@2x.png   |   Bin 0 -> 11666 bytes
+ .../docs/5.0/assets/img/examples/navbar-fixed.png  |   Bin 0 -> 5911 bytes
+ .../5.0/assets/img/examples/navbar-fixed@2x.png    |   Bin 0 -> 14103 bytes
+ .../docs/5.0/assets/img/examples/navbar-static.png |   Bin 0 -> 6624 bytes
+ .../5.0/assets/img/examples/navbar-static@2x.png   |   Bin 0 -> 15155 bytes
+ .../docs/5.0/assets/img/examples/navbars.png       |   Bin 0 -> 13126 bytes
+ .../docs/5.0/assets/img/examples/navbars@2x.png    |   Bin 0 -> 31168 bytes
+ .../5.0/assets/img/examples/offcanvas-navbar.png   |   Bin 0 -> 9691 bytes
+ .../assets/img/examples/offcanvas-navbar@2x.png    |   Bin 0 -> 23975 bytes
+ .../docs/5.0/assets/img/examples/pricing.png       |   Bin 0 -> 11621 bytes
+ .../docs/5.0/assets/img/examples/pricing@2x.png    |   Bin 0 -> 29128 bytes
+ .../docs/5.0/assets/img/examples/product.png       |   Bin 0 -> 12906 bytes
+ .../docs/5.0/assets/img/examples/product@2x.png    |   Bin 0 -> 27953 bytes
+ .../docs/5.0/assets/img/examples/sidebars.png      |   Bin 0 -> 12287 bytes
+ .../docs/5.0/assets/img/examples/sidebars@2x.png   |   Bin 0 -> 33499 bytes
+ .../docs/5.0/assets/img/examples/sign-in.png       |   Bin 0 -> 2199 bytes
+ .../docs/5.0/assets/img/examples/sign-in@2x.png    |   Bin 0 -> 4568 bytes
+ .../5.0/assets/img/examples/starter-template.png   |   Bin 0 -> 7753 bytes
+ .../assets/img/examples/starter-template@2x.png    |   Bin 0 -> 20134 bytes
+ .../assets/img/examples/sticky-footer-navbar.png   |   Bin 0 -> 6979 bytes
+ .../img/examples/sticky-footer-navbar@2x.png       |   Bin 0 -> 15836 bytes
+ .../docs/5.0/assets/img/examples/sticky-footer.png |   Bin 0 -> 4280 bytes
+ .../5.0/assets/img/examples/sticky-footer@2x.png   |   Bin 0 -> 9665 bytes
+ .../assets/img/favicons/android-chrome-192x192.png |   Bin 0 -> 8364 bytes
+ .../assets/img/favicons/android-chrome-512x512.png |   Bin 0 -> 23832 bytes
+ .../5.0/assets/img/favicons/apple-touch-icon.png   |   Bin 0 -> 7650 bytes
+ .../docs/5.0/assets/img/favicons/favicon-16x16.png |   Bin 0 -> 529 bytes
+ .../docs/5.0/assets/img/favicons/favicon-32x32.png |   Bin 0 -> 1159 bytes
+ .../docs/5.0/assets/img/favicons/favicon.ico       |   Bin 0 -> 15086 bytes
+ .../docs/5.0/assets/img/favicons/manifest.json     |    20 +
+ .../5.0/assets/img/favicons/safari-pinned-tab.svg  |     1 +
+ .../static/docs/5.0/assets/js/validate-forms.js    |    20 +
+ bootstrap-5.0.2/site/static/sw.js                  |    27 +
+ image/camion-benne.JPG                             |   Bin 0 -> 69735 bytes
+ image/camion-citerne.JPG                           |   Bin 0 -> 41903 bytes
+ image/camion-routier.JPG                           |   Bin 0 -> 107933 bytes
+ image/camion_fourgon.JPG                           |   Bin 0 -> 28552 bytes
+ image/camion_frigorifique.JPG                      |   Bin 0 -> 45248 bytes
+ image/camion_plateau.JPG                           |   Bin 0 -> 58463 bytes
+ image/camion_porte-char.JPG                        |   Bin 0 -> 60285 bytes
+ image/camion_semi-remorque.JPG                     |   Bin 0 -> 37737 bytes
+ image/camion_tautliner.JPG                         |   Bin 0 -> 34844 bytes
+ image/image_Terre.jpg                              |   Bin 0 -> 31259 bytes
+ image/img_lights_wide.jpg                          |   Bin 0 -> 21057 bytes
+ image/img_mountains_wide.jpg                       |   Bin 0 -> 60405 bytes
+ image/img_snow_wide.jpg                            |   Bin 0 -> 33260 bytes
+ index.html                                         |  1367 +++
+ 652 files changed, 163154 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 INFOBULLE en JQUERY.mkv
+ create mode 100644 JQUERY_2024/jquery-3.7.1.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.min.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.min.map
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.min.js
+ create mode 100644 JQUERY_2024/jquery-3.7.1.slim.min.map
+ create mode 100644 JQUERY_2024/jquery-migrate-1.4.1.js
+ create mode 100644 JQUERY_2024/jquery-migrate-1.4.1.min.js
+ create mode 100644 JQUERY_2024/jquery-migrate-3.5.0.js
+ create mode 100644 JQUERY_2024/jquery-migrate-3.5.0.min.js
+ create mode 100644 bootstrap-5.0.2/.babelrc.js
+ create mode 100644 bootstrap-5.0.2/.browserslistrc
+ create mode 100644 bootstrap-5.0.2/.bundlewatch.config.json
+ create mode 100644 bootstrap-5.0.2/.editorconfig
+ create mode 100644 bootstrap-5.0.2/.eslintignore
+ create mode 100644 bootstrap-5.0.2/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/.gitattributes
+ create mode 100644 bootstrap-5.0.2/.github/CODEOWNERS
+ create mode 100644 bootstrap-5.0.2/.github/CONTRIBUTING.md
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/bug_report.md
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/config.yml
+ create mode 100644 bootstrap-5.0.2/.github/ISSUE_TEMPLATE/feature_request.md
+ create mode 100644 bootstrap-5.0.2/.github/SUPPORT.md
+ create mode 100644 bootstrap-5.0.2/.github/dependabot.yml
+ create mode 100644 bootstrap-5.0.2/.github/release-drafter.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/browserstack.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/bundlewatch.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/codeql.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/css.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/docs.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/js.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/lint.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/node-sass.yml
+ create mode 100644 bootstrap-5.0.2/.github/workflows/release-notes.yml
+ create mode 100644 bootstrap-5.0.2/.gitignore
+ create mode 100644 bootstrap-5.0.2/.stylelintignore
+ create mode 100644 bootstrap-5.0.2/.stylelintrc
+ create mode 100644 bootstrap-5.0.2/CODE_OF_CONDUCT.md
+ create mode 100644 bootstrap-5.0.2/LICENSE
+ create mode 100644 bootstrap-5.0.2/README.md
+ create mode 100644 bootstrap-5.0.2/SECURITY.md
+ create mode 100644 bootstrap-5.0.2/build/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/build/banner.js
+ create mode 100644 bootstrap-5.0.2/build/build-plugins.js
+ create mode 100644 bootstrap-5.0.2/build/change-version.js
+ create mode 100644 bootstrap-5.0.2/build/generate-sri.js
+ create mode 100644 bootstrap-5.0.2/build/postcss.config.js
+ create mode 100644 bootstrap-5.0.2/build/rollup.config.js
+ create mode 100644 bootstrap-5.0.2/build/svgo.yml
+ create mode 100644 bootstrap-5.0.2/build/vnu-jar.js
+ create mode 100644 bootstrap-5.0.2/build/zip-examples.js
+ create mode 100644 bootstrap-5.0.2/composer.json
+ create mode 100644 bootstrap-5.0.2/config.yml
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-grid.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-reboot.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap-utilities.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.css.map
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css
+ create mode 100644 bootstrap-5.0.2/dist/css/bootstrap.rtl.min.css.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.esm.min.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.js.map
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.min.js
+ create mode 100644 bootstrap-5.0.2/dist/js/bootstrap.min.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/alert.js
+ create mode 100644 bootstrap-5.0.2/js/dist/alert.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/base-component.js
+ create mode 100644 bootstrap-5.0.2/js/dist/base-component.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/button.js
+ create mode 100644 bootstrap-5.0.2/js/dist/button.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/carousel.js
+ create mode 100644 bootstrap-5.0.2/js/dist/carousel.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/collapse.js
+ create mode 100644 bootstrap-5.0.2/js/dist/collapse.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/data.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/data.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/event-handler.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/event-handler.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/manipulator.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/manipulator.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/selector-engine.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dom/selector-engine.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/dropdown.js
+ create mode 100644 bootstrap-5.0.2/js/dist/dropdown.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/modal.js
+ create mode 100644 bootstrap-5.0.2/js/dist/modal.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/js/dist/offcanvas.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/popover.js
+ create mode 100644 bootstrap-5.0.2/js/dist/popover.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/scrollspy.js
+ create mode 100644 bootstrap-5.0.2/js/dist/scrollspy.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/tab.js
+ create mode 100644 bootstrap-5.0.2/js/dist/tab.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/toast.js
+ create mode 100644 bootstrap-5.0.2/js/dist/toast.js.map
+ create mode 100644 bootstrap-5.0.2/js/dist/tooltip.js
+ create mode 100644 bootstrap-5.0.2/js/dist/tooltip.js.map
+ create mode 100644 bootstrap-5.0.2/js/index.esm.js
+ create mode 100644 bootstrap-5.0.2/js/index.umd.js
+ create mode 100644 bootstrap-5.0.2/js/src/alert.js
+ create mode 100644 bootstrap-5.0.2/js/src/base-component.js
+ create mode 100644 bootstrap-5.0.2/js/src/button.js
+ create mode 100644 bootstrap-5.0.2/js/src/carousel.js
+ create mode 100644 bootstrap-5.0.2/js/src/collapse.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/data.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/event-handler.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/manipulator.js
+ create mode 100644 bootstrap-5.0.2/js/src/dom/selector-engine.js
+ create mode 100644 bootstrap-5.0.2/js/src/dropdown.js
+ create mode 100644 bootstrap-5.0.2/js/src/modal.js
+ create mode 100644 bootstrap-5.0.2/js/src/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/js/src/popover.js
+ create mode 100644 bootstrap-5.0.2/js/src/scrollspy.js
+ create mode 100644 bootstrap-5.0.2/js/src/tab.js
+ create mode 100644 bootstrap-5.0.2/js/src/toast.js
+ create mode 100644 bootstrap-5.0.2/js/src/tooltip.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/backdrop.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/index.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/sanitizer.js
+ create mode 100644 bootstrap-5.0.2/js/src/util/scrollbar.js
+ create mode 100644 bootstrap-5.0.2/js/tests/README.md
+ create mode 100644 bootstrap-5.0.2/js/tests/browsers.js
+ create mode 100644 bootstrap-5.0.2/js/tests/helpers/fixture.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/bundle-modularity.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/bundle.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/index.html
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/rollup.bundle-modularit
+y.js
+ create mode 100644 bootstrap-5.0.2/js/tests/integration/rollup.bundle.js
+ create mode 100644 bootstrap-5.0.2/js/tests/karma.conf.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/alert.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/base-component.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/button.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/carousel.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/collapse.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/data.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/event-handler.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/manipulator.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dom/selector-engine.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/dropdown.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/jquery.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/modal.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/offcanvas.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/popover.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/scrollspy.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/tab.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/toast.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/tooltip.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/backdrop.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/index.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/sanitizer.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/unit/util/scrollbar.spec.js
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/alert.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/button.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/carousel.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/collapse.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/dropdown.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/modal.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/popover.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/scrollspy.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/tab.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/toast.html
+ create mode 100644 bootstrap-5.0.2/js/tests/visual/tooltip.html
+ create mode 100644 bootstrap-5.0.2/nuget/MyGet.ps1
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.nuspec
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.png
+ create mode 100644 bootstrap-5.0.2/nuget/bootstrap.sass.nuspec
+ create mode 100644 bootstrap-5.0.2/package-lock.json
+ create mode 100644 bootstrap-5.0.2/package.js
+ create mode 100644 bootstrap-5.0.2/package.json
+ create mode 100644 bootstrap-5.0.2/scss/_accordion.scss
+ create mode 100644 bootstrap-5.0.2/scss/_alert.scss
+ create mode 100644 bootstrap-5.0.2/scss/_badge.scss
+ create mode 100644 bootstrap-5.0.2/scss/_breadcrumb.scss
+ create mode 100644 bootstrap-5.0.2/scss/_button-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/scss/_card.scss
+ create mode 100644 bootstrap-5.0.2/scss/_carousel.scss
+ create mode 100644 bootstrap-5.0.2/scss/_close.scss
+ create mode 100644 bootstrap-5.0.2/scss/_containers.scss
+ create mode 100644 bootstrap-5.0.2/scss/_dropdown.scss
+ create mode 100644 bootstrap-5.0.2/scss/_forms.scss
+ create mode 100644 bootstrap-5.0.2/scss/_functions.scss
+ create mode 100644 bootstrap-5.0.2/scss/_grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/_helpers.scss
+ create mode 100644 bootstrap-5.0.2/scss/_images.scss
+ create mode 100644 bootstrap-5.0.2/scss/_list-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/_mixins.scss
+ create mode 100644 bootstrap-5.0.2/scss/_modal.scss
+ create mode 100644 bootstrap-5.0.2/scss/_nav.scss
+ create mode 100644 bootstrap-5.0.2/scss/_navbar.scss
+ create mode 100644 bootstrap-5.0.2/scss/_offcanvas.scss
+ create mode 100644 bootstrap-5.0.2/scss/_pagination.scss
+ create mode 100644 bootstrap-5.0.2/scss/_popover.scss
+ create mode 100644 bootstrap-5.0.2/scss/_progress.scss
+ create mode 100644 bootstrap-5.0.2/scss/_reboot.scss
+ create mode 100644 bootstrap-5.0.2/scss/_root.scss
+ create mode 100644 bootstrap-5.0.2/scss/_spinners.scss
+ create mode 100644 bootstrap-5.0.2/scss/_tables.scss
+ create mode 100644 bootstrap-5.0.2/scss/_toasts.scss
+ create mode 100644 bootstrap-5.0.2/scss/_tooltip.scss
+ create mode 100644 bootstrap-5.0.2/scss/_transitions.scss
+ create mode 100644 bootstrap-5.0.2/scss/_type.scss
+ create mode 100644 bootstrap-5.0.2/scss/_utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/_variables.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-reboot.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap-utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/bootstrap.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_floating-labels.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-check.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-control.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-range.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-select.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_form-text.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_input-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_labels.scss
+ create mode 100644 bootstrap-5.0.2/scss/forms/_validation.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_clearfix.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_colored-links.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_position.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_ratio.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_stretched-link.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_text-truncation.scss
+ create mode 100644 bootstrap-5.0.2/scss/helpers/_visually-hidden.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_alert.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_border-radius.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_box-shadow.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_breakpoints.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_caret.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_clearfix.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_color-scheme.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_container.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_deprecate.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_forms.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_gradients.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_grid.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_image.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_list-group.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_lists.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_pagination.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_reset-text.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_resize.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_table-variants.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_text-truncate.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_transition.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_utilities.scss
+ create mode 100644 bootstrap-5.0.2/scss/mixins/_visually-hidden.scss
+ create mode 100644 bootstrap-5.0.2/scss/utilities/_api.scss
+ create mode 100644 bootstrap-5.0.2/scss/vendor/_rfs.scss
+ create mode 100644 bootstrap-5.0.2/site/.eslintrc.json
+ create mode 100644 bootstrap-5.0.2/site/assets/js/application.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/search.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/vendor/anchor.min.js
+ create mode 100644 bootstrap-5.0.2/site/assets/js/vendor/clipboard.min.js
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_ads.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_algolia.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_anchor.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_brand.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_buttons.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_callouts.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_clipboard-js.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_colors.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_component-examples.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_content.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_footer.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_layout.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_masthead.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_navbar.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_placeholder-img.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_sidebar.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_skippy.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_subnav.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_syntax.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_toc.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/_variables.scss
+ create mode 100644 bootstrap-5.0.2/site/assets/scss/docs.scss
+ create mode 100644 bootstrap-5.0.2/site/content/404.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/_index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/brand.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/license.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/team.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/about/translations.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/accordion.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/alerts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/badge.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/breadcrumb.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/button-grou
+p.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/buttons.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/card.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/carousel.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/close-butto
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/collapse.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/dropdowns.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/list-group.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/modal.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/navbar.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/navs-tabs.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/offcanvas.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/pagination.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/popovers.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/progress.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/scrollspy.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/spinners.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/toasts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/components/tooltips.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/figures.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/images.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/reboot.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/tables.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/content/typography.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/color.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/components.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/css-variable
+s.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/optimize.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/options.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/customize/sass.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/.stylelintrc
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/_index.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/album-rtl/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/album/index.h
+tml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog-rtl/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/blog.rtl
+.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/blog/index.ht
+ml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel-rtl/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/caro
+usel.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/caro
+usel.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/carousel/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet-rt
+l/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/ch
+eatsheet.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cheatsheet/in
+dex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout-rtl/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form
+-validation.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/form
+-validation.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/checkout/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cover/cover.c
+ss
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/cover/index.h
+tml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl
+/dashboard.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard-rtl
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/das
+hboard.rtl.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/dashboard/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/feat
+ures.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-1.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-2.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/features/unsp
+lash-photo-3.jpg
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/grid/grid.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/grid/index.ht
+ml
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/headers/heade
+rs.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/headers/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootst
+rap-docs.png
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/bootst
+rap-themes.png
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/heroes
+.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/heroes/index.
+html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/jumbotron/ind
+ex.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/masonry/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-bottom
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/
+index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-fixed/
+navbar-top-fixed.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbar-static
+/navbar-top.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/navbars/navba
+r.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/offcanvas.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/offcanvas-nav
+bar/offcanvas.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/pricing/prici
+ng.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/product/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/product/produ
+ct.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/inde
+x.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/side
+bars.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sidebars/side
+bars.js
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/index
+.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sign-in/signi
+n.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/starter-templ
+ate/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/starter-templ
+ate/starter-template.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+-navbar/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+-navbar/sticky-footer-navbar.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+/index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/examples/sticky-footer
+/sticky-footer.css
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/extend/approach.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/extend/icons.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/checks-radios.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/floating-labels.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/form-control.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/input-group.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/layout.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/overview.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/range.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/select.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/forms/validation.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/access
+ibility.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/best-p
+ractices.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/browse
+rs-devices.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/build-
+tools.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/conten
+ts.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/downlo
+ad.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/introd
+uction.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/javasc
+ript.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/parcel
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/rfs.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/rtl.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/getting-started/webpac
+k.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/clearfix.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/colored-links.
+md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/position.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/ratio.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/stretched-link
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/text-truncatio
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/helpers/visually-hidde
+n.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/breakpoints.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/columns.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/containers.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/grid.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/gutters.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/utilities.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/layout/z-index.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/migration.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/api.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/background.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/borders.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/colors.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/display.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/flex.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/float.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/interactions
+.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/overflow.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/position.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/shadows.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/sizing.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/spacing.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/text.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/vertical-ali
+gn.md
+ create mode 100644 bootstrap-5.0.2/site/content/docs/5.0/utilities/visibility.m
+d
+ create mode 100644 bootstrap-5.0.2/site/content/docs/_index.html
+ create mode 100644 bootstrap-5.0.2/site/content/docs/versions.md
+ create mode 100644 bootstrap-5.0.2/site/data/breakpoints.yml
+ create mode 100644 bootstrap-5.0.2/site/data/colors.yml
+ create mode 100644 bootstrap-5.0.2/site/data/core-team.yml
+ create mode 100644 bootstrap-5.0.2/site/data/docs-versions.yml
+ create mode 100644 bootstrap-5.0.2/site/data/examples.yml
+ create mode 100644 bootstrap-5.0.2/site/data/grays.yml
+ create mode 100644 bootstrap-5.0.2/site/data/icons.yml
+ create mode 100644 bootstrap-5.0.2/site/data/sidebar.yml
+ create mode 100644 bootstrap-5.0.2/site/data/theme-colors.yml
+ create mode 100644 bootstrap-5.0.2/site/data/translations.yml
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/404.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/baseof.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/docs.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/examples.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/home.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/redirect.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/_default/single.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/alias.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/ads.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/analytics.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-danger-async-m
+ethods.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-mediaquer
+ies-breakpoints.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-npm-start
+er.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-prefersre
+ducedmotion.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-info-sanitizer
+.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-warning-color-
+assistive-technologies.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/callout-warning-input-
+support.md
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-navbar.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-sidebar.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-subnav.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/docs-versions.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/favicons.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/footer.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/header.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/home/masthead-followup
+.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/home/masthead.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-logo-s
+olid.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap-white-
+fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/bootstrap.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/circle-square.sv
+g
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/cloud-fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/code.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/collapse.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/droplet-fill.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/expand.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/github.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/hamburger.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/homepage-hero.sv
+g
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/list.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/menu.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/opencollective.s
+vg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/slack.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/icons/twitter.svg
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/redirect.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/scripts.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/skippy.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/social.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/stylesheet.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/partials/table-content.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/robots.txt
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/bs-table.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/callout.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/docsref.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/example.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/markdown.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/param.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/partial.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/placeholder.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/scss-docs.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/table.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/shortcodes/year.html
+ create mode 100644 bootstrap-5.0.2/site/layouts/sitemap.xml
+ create mode 100644 bootstrap-5.0.2/site/static/CNAME
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-black.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-shadow.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo-white.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+logo.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+social-logo.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/brand/bootstrap-
+social.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-ic
+ons.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-ic
+ons@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes-collage.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes-collage@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/bootstrap-th
+emes@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/alb
+um@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/blo
+g@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/car
+ousel@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+atsheet@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/che
+ckout@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cov
+er.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/cov
+er@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard-rtl.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard-rtl@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/das
+hboard@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/fea
+tures.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/fea
+tures@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/gri
+d.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/gri
+d@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/hea
+ders.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/hea
+ders@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/her
+oes.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/her
+oes@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jum
+botron.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/jum
+botron@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/mas
+onry.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/mas
+onry@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-bottom.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-bottom@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-fixed.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-fixed@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-static.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bar-static@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bars.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/nav
+bars@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/off
+canvas-navbar.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/off
+canvas-navbar@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pri
+cing.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pri
+cing@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pro
+duct.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/pro
+duct@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sid
+ebars.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sid
+ebars@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sig
+n-in.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sig
+n-in@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sta
+rter-template.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sta
+rter-template@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer-navbar.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer-navbar@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/examples/sti
+cky-footer@2x.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/and
+roid-chrome-192x192.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/and
+roid-chrome-512x512.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/app
+le-touch-icon.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon-16x16.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon-32x32.png
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/fav
+icon.ico
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/man
+ifest.json
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/img/favicons/saf
+ari-pinned-tab.svg
+ create mode 100644 bootstrap-5.0.2/site/static/docs/5.0/assets/js/validate-form
+s.js
+ create mode 100644 bootstrap-5.0.2/site/static/sw.js
+ create mode 100644 image/camion-benne.JPG
+ create mode 100644 image/camion-citerne.JPG
+ create mode 100644 image/camion-routier.JPG
+ create mode 100644 image/camion_fourgon.JPG
+ create mode 100644 image/camion_frigorifique.JPG
+ create mode 100644 image/camion_plateau.JPG
+ create mode 100644 image/camion_porte-char.JPG
+ create mode 100644 image/camion_semi-remorque.JPG
+ create mode 100644 image/camion_tautliner.JPG
+ create mode 100644 image/image_Terre.jpg
+ create mode 100644 image/img_lights_wide.jpg
+ create mode 100644 image/img_mountains_wide.jpg
+ create mode 100644 image/img_snow_wide.jpg
+ create mode 100644 index.html
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$ git push
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Mariogit20/INFOBULLE-en-JQUERY.git
+   7a838a7..84aa8f5  Test -> Test
+
+AzureAD+SPSSE02MEN@DESKTOP-S95K8U0 MINGW64 /d/PYTHON DJANGO HOPES/github7/INFOBULLE-en-JQUERY (Test)
+$
